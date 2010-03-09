@@ -112,8 +112,6 @@
 ;;;;; testing
 
 
-(robert-typing-test "asdf jkl asdf jkl" 1.0)
-
 (robert-typing-test "ffjj ffjj ffjj ffjj ffjj fjfj fjfj fjfj jjff jjff jfjf jfjf fjfj ddkk ddkk" 3.0 1.0 5.0)
 (robert-typing-test "ffjj ffjj ffjj ffjj ffjj fjfj fjfj fjfj jjff jjff jfjf jfjf fjfj ddkk ddkk" 0.5 1.0 5.0)
 (robert-typing-test "ffjj ffjj ffjj ffjj ffjj fjfj fjfj fjfj jjff jjff jfjf jfjf fjfj ddkk ddkk" 0.4 0.8 5.0)
