@@ -1,5 +1,5 @@
 ;;;; header 
-;; $Header: /home/cvs/lisp/typing-trainer.el,v 1.7 2010/02/25 18:05:49 robert Exp $ 
+;; $Header:$ 
 
 ;;;;; typing 
 
