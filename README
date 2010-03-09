@@ -1,1 +1,17 @@
-.......
+First tests with emacs & git.  
+
+Somehow it seems that emacs does not really work with git (despite
+what the Info-files or the emacs wiki say.).
+
+At the end of many days, more questions than answers remain:
+
+Which vc-git.el is more recent - the one coming with emacs23(cvs) or
+the one coming with git-core?
+
+What does vc-git.el provide (regarding to remote-repositories)?
+What is the stash?
+What is the master-file?
+How does one  git push/pull/branch/....?
+
+
+...
